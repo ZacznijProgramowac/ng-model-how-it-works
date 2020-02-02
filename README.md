@@ -1,5 +1,18 @@
 # Blueprint dla aplikacji Angular na potrzeby edukacyjne
 
+## Przykład działania ngModel
+
+## Więcej informacji:
+
+- kurs udemy [https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/](https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/)
+- blog [https://zacznijprogramowac.net/](https://zacznijprogramowac.net/)
+
+# Otwórz przez StackBlitz:
+
+[https://stackblitz.com/github/ZacznijProgramowac/ng-model-how-it-works](https://stackblitz.com/github/ZacznijProgramowac/ng-model-how-it-works)
+
+
+
 ## Wymagania projektu
 - Angular CLI: 9.0.0-rc.7
 - Node: 12.13.1 lub inna wersja LTS
